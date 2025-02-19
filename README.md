@@ -25,7 +25,7 @@ El proyecto maneja el estado de carga con un spinner y muestra la información d
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO_ANGULAR>
+   git clone https://github.com/neydarisJaylinne/AngularWebApi
    ```
 
 2. Instala las dependencias del proyecto:
