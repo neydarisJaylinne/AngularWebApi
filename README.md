@@ -1,9 +1,4 @@
-Employee API - Guía de Implementación FrontEnd
-
-Aquí tienes un ejemplo de `README.md` para tu proyecto Angular con el backend en otro repositorio:
-
-```markdown
-# Proyecto Angular - Consultar Empleados
+# Employee API - Guía de Implementación FrontEnd Angular
 
 Este proyecto Angular permite consultar la información de empleados a través de un formulario interactivo. Utiliza Material Design para la interfaz de usuario y se comunica con un backend alojado en otro repositorio.
 
@@ -85,4 +80,3 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 ---
 
 **Nota:** Asegúrate de tener configurado el backend correctamente y de que la URL de la API esté definida en el proyecto Angular para que funcione correctamente.
-
